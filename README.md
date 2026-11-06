@@ -15,3 +15,5 @@ Custom domain: `s-j.tech`.
 
 ## Update
 Edit the content in `index.html`. Replace the placeholder email and verify social profile URLs before publishing.
+
+Deployment target: Cloudflare Pages (`s-j-tech.pages.dev`). Changes pushed to `main` are deployed automatically.
